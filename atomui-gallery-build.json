@@ -1,0 +1,9 @@
+{
+  "version": "6.0.0",
+  "releaseId": "6.0.0-f592915b8808",
+  "gitRevision": "f592915b88080ade061396ad1f81ee43219a9132",
+  "gitShortSha": "f592915b8808",
+  "buildCreated": "2026-06-12T14:44:43Z",
+  "source": "https://github.com/AtomUI/AtomUI.git",
+  "branch": "release/6.0"
+}
